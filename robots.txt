@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://osparteni.github.io/sitemap
+Sitemap: https://osparteni.github.io/app/sitemap
+Sitemap: https://osparteni.github.io/assets/sitemap
+Sitemap: https://osparteni.github.io/css/sitemap
+Sitemap: https://osparteni.github.io/includes/sitemap
+Sitemap: https://osparteni.github.io/item/sitemap
+Sitemap: https://osparteni.github.io/src/sitemap
